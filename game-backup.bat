@@ -3,7 +3,7 @@
 SETLOCAL EnableDelayedExpansion
 ::================================CHANGE THESE AS NEEDED=====================================
 
-::Location of the saves (replace XXXXX with your user ID)
+::Location of the saves (replace this with the path to the local save files)
 set PATH=C:\Users\USERNAME\Documents\Saved Games\Hades
 
 ::Location to save the backups to
